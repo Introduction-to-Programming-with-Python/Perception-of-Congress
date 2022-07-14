@@ -6,7 +6,7 @@ This project aims to apply some programming foundations concepts and Python func
 
 - The file [Code.py](/Code.py) contains the code.
 - The folder [Documentation](/Documentation/) contains the repository documentation files and context about this project.
-- The filde [Data.csv](/Data.csv) is the data source for this project.
+- The fil [Data.csv](/Data.csv) is the data source for this project.
 
 ## Statement
 
